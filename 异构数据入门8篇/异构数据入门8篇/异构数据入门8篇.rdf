@@ -1,0 +1,645 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/s18082521">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1424-8220"/>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cowton</foaf:surname>
+                        <foaf:givenName>Jake</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kyriazakis</foaf:surname>
+                        <foaf:givenName>Ilias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plötz</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bacardit</foaf:surname>
+                        <foaf:givenName>Jaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_342"/>
+        <link:link rdf:resource="#item_359"/>
+        <link:link rdf:resource="#item_358"/>
+        <link:link rdf:resource="#item_362"/>
+        <link:link rdf:resource="#item_361"/>
+        <link:link rdf:resource="#item_360"/>
+        <dc:title>A Combined Deep Learning GRU-Autoencoder for the Early Detection of Respiratory Disease in Pigs Using Multiple Environmental Sensors</dc:title>
+        <dc:date>2018-08</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/s18082521</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2521</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1424-8220">
+        <dc:identifier>DOI 10.3390/s18082521</dc:identifier>
+        <prism:volume>18</prism:volume>
+        <dc:title>Sensors</dc:title>
+        <dc:identifier>ISSN 1424-8220</dc:identifier>
+        <prism:number>8</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_342">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/342/Cow18.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_359">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/359/Cow18.compare.pdf"/>
+        <dc:title>siliconflowfree-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_358">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/358/Cow18.no_watermark.zh-CN.crop-compare.pdf"/>
+        <dc:title>siliconflowfree-crop-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_362">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/362/Cow18.no_watermark.zh-CN.LR_dual.pdf"/>
+        <dc:title>siliconflowfree-dual</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_361">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/361/Cow18.no_watermark.zh-CN.mono.pdf"/>
+        <dc:title>siliconflowfree-mono</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_360">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/360/Cow18.cut.pdf"/>
+        <dc:title>siliconflowfree-origin-cut</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/ani12080982">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-2615"/>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pessoa</foaf:surname>
+                        <foaf:givenName>Joana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Camp Montoro</foaf:surname>
+                        <foaf:givenName>Jordi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pina Nunes</foaf:surname>
+                        <foaf:givenName>Telmo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Norton</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McAloon</foaf:surname>
+                        <foaf:givenName>Conor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia Manzanilla</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyle</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_343"/>
+        <dc:title>Environmental Risk Factors Influence the Frequency of Coughing and Sneezing Episodes in Finisher Pigs on a Farm Free of Respiratory Disease</dc:title>
+        <dc:date>2022-04</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/ani12080982</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>982</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-2615">
+        <dc:identifier>DOI 10.3390/ani12080982</dc:identifier>
+        <prism:volume>12</prism:volume>
+        <dc:title>Animals</dc:title>
+        <dc:identifier>ISSN 2076-2615</dc:identifier>
+        <prism:number>8</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_343">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/343/Pes22.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.1371/journal.pone.0297655">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Public Library of Science (PLoS)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Buyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qi</foaf:surname>
+                        <foaf:givenName>Jingwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>An</foaf:surname>
+                        <foaf:givenName>Xiaoping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Srinivasan</foaf:surname>
+                        <foaf:givenName>Kathiravan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_344"/>
+        <dc:title>Heterogeneous fusion of biometric and deep physiological features for accurate porcine cough recognition</dc:title>
+        <dc:date>2024-02</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.doi.org/10.1371/journal.pone.0297655</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e0297655</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <dc:identifier>DOI 10.1371/journal.pone.0297655</dc:identifier>
+        <prism:volume>19</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <prism:number>2</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_344">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/344/Wan24b.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/ani13071273">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.3390/ani13071273</dc:identifier>
+                <prism:volume>13</prism:volume>
+                <dc:title>Animals</dc:title>
+                <dc:identifier>ISSN 2076-2615</dc:identifier>
+                <prism:number>7</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrido</foaf:surname>
+                        <foaf:givenName>Luís F. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sato</foaf:surname>
+                        <foaf:givenName>Sabrina T. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Costa</foaf:surname>
+                        <foaf:givenName>Leandro B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daros</foaf:surname>
+                        <foaf:givenName>Ruan R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_345"/>
+        <link:link rdf:resource="#item_363"/>
+        <dc:title>Can We Reliably Detect Respiratory Diseases through Precision Farming? A Systematic Review</dc:title>
+        <dc:date>2023-04</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/ani13071273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1273</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_345">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/345/Gar23.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_363">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/363/Gar23.no_watermark.zh-CN.crop-compare.pdf"/>
+        <dc:title>siliconflowfree-crop-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2404.18947">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Qingyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Yake</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Zongbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Huazhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Xi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deng</foaf:surname>
+                        <foaf:givenName>Cheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Qinghua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Cai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Di</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Changqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_346"/>
+        <link:link rdf:resource="#item_364"/>
+        <dc:title>Multimodal Fusion on Low-quality Data: A Comprehensive Survey</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>DOI 10.48550/arXiv.2404.18947</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2404.18947</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_346">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/346/Zha24.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_364">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/364/Zha24.no_watermark.zh-CN.crop-compare.pdf"/>
+        <dc:title>siliconflowfree-crop-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2306.02050">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.48550/arXiv.2306.02050</dc:identifier>
+                <dc:title>Proceedings of the 40th International Conference on Machine Learning</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Qingyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Haitao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Changqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Qinghua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Huazhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Joey Tianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Xi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_347"/>
+        <dc:title>Provable Dynamic Fusion for Low-Quality Multimodal Data</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2306.02050</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_347">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/347/Zha23.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0168169923000339">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01681699"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yin</foaf:surname>
+                        <foaf:givenName>Yanling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ji</foaf:surname>
+                        <foaf:givenName>Nan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Weizheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Baisheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kou</foaf:surname>
+                        <foaf:givenName>Shengli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_365"/>
+        <dc:title>An investigation of fusion strategies for boosting pig cough sound recognition</dc:title>
+        <dcterms:abstract>The recognition of pig cough sounds is an effective way to monitor pig respiratory diseases which seriously affect healthy pig breeding. Due to the complexity of the pig-housing environment, achieving high precision cough recognition by relying only on a single feature or classifier is challenging. Therefore, in this study we investigated two fusion strategies, namely feature fusion and classifier fusion, to boost classification accuracy. For feature fusion, we improved the previously proposed feature fusion algorithm and selected better acoustic and image features for fusion. We also proposed a novel classifier fusion algorithm. In the algorithm, the support vector machine (SVM) classifiers trained by the acoustic features and deep features were fused by soft voting for pig cough prediction. The sound data collected in the pig barn were used to validate the proposed methods. Our methods achieved a substantial classification rate of 97.47% and 99.20% for feature fusion and classifier fusion, respectively. The results demonstrate that our proposed fusion strategies can significantly improve the recognition accuracy of pig cough sounds.</dcterms:abstract>
+        <dc:date>02/2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0168169923000339</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 12:01:24</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>107645</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01681699">
+        <dc:identifier>DOI 10.1016/j.compag.2023.107645</dc:identifier>
+        <prism:volume>205</prism:volume>
+        <dc:title>Computers and Electronics in Agriculture</dc:title>
+        <dc:identifier>ISSN 01681699</dc:identifier>
+        <dcterms:alternative>Computers and Electronics in Agriculture</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_365">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/365/Yin 等 - 2023 - An investigation of fusion strategies for boosting pig cough sound recognition.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271304/1-s2.0-S0168169922X00136/1-s2.0-S0168169923000339/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDwTYJiFOHM6rjuqLUrX%2FZRTGPUzjRu%2BHu3O3gvSCVpBgIhANc6iUQIYpUFzWiunvkJpMwAuZIumhiw93jv3ca98Y4bKrMFCHUQBRoMMDU5MDAzNTQ2ODY1Igx9aSlOXyN54XvIKGIqkAWkAac1m%2BPpCbo9cNQ1X%2BLVgNxp6IbiutBFTF6GRfYeAvLBhNn30q30k2%2FuHk70iJWiq4Vw3Rc3gqWHxzQGI73AJVcF2%2F0vQoBGlLIMO7d0XUEYSF4z8yn0BrGW1WE8Ocd%2FqHth7E0es5ZYf3QVb12VTZmuxGLxHJ1bkvpQWFPoIjKilrJZL2rx5C46nFzz2ZkVCo387YHcwOqw9XjkqT6p522dMM%2BRmjJf6vaEUIfnHnkPVfMruMCH3cPhdLANpbR6kVRvrK6P3zUwKss%2BbhlWTq33r4%2Fvv8rah%2F%2FP8SolH7DhpMfTS1hVoKLn6iE1GWA4%2ByEOCD4JgzN3LBrpENetqweSr3gEW1x8uZ9NM9UrqXgyh8MVRYBKxM0507QDizsVtFo%2FyjKuO4Emzz0m1J3pVBrQ5tM7Rqa8OdbYXPqFyU%2FttBJauXb7TPwXA7BY7OyF%2BnA9F0G8RgJidrJ%2BFa4%2BRGwPNF%2FOpa49zRSZawnDC9F4up9e1c%2BQDtvnkeFYATZFNw5DzjN4rsRUmdzYtxuQEBOpFs2NjdmZlZv9u2KXl0HAB3J9gf50AZ3YruBej2RwYmZcn0Hsl6Fm1%2BxZDQr0Mm5p88oq3IEkuXzs0W1lZS%2FgKToGJ1fhxYypKE7uvgvpwtI%2BR4JVn%2FUH53zMYGgXUToqhRXgi6TI0ta9yRxqyvr%2BiUoFmxi5Owe7IP%2F08Ug4ieM56NQ3QmTkKPDIpLwNdo51s8d1ahpqjctKTGlUFX68Twf5grJWdRsYfUIFeUthiIbe1BwlgCRo5ElJ0jiNXw8%2BUgdoh1SoA%2Bd%2FJjOa5a35QW89WtJhUa1TabS%2BuIEwFupLEUC0k19DM5VfDJS%2FgwO9QanoVqfBnEsL4MfcqDCRiL%2FVBjqwAR8U99gqnZPgDvAoSJK5JJXazj3FoPKGGOonHP8eGa9wXSqjSjsOmEpFW61oLR0ui%2BWCmxpvYYv6WRes6w%2F22uGqMIL2EwhLaKA51C6Vqz2GPojljeUld6L5tlAHovnn2QtW%2ByqcPxcHsYqJifFW5n8bQtCuvTa%2BWe1GmrNGmgBkCwHOJiNaxxKugfeVrwsh351gE93P1Vh8PJ6M%2FDMqH%2BtQ6aYwkfQF%2Bkq51rn4k76G&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260920T120054Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTY77EKHE2N%2F20260920%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=7480960b35530c38a3d23c013c432d3d8836e9e99fdf939dc165705fcf1991a1&amp;hash=1826360dbe3e184a5b56b1b10df038b34a50a53174fdb96280fc7616f693f3a7&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0168169923000339&amp;tid=spdf-85aef51f-6db6-4e34-8ae1-e876be9cad82&amp;sid=9cc3e4d17cdf0145f119ef91d3b6e84e0ad4gxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=120d0f5002550306505259&amp;rr=a3e0ac256ce7781d&amp;cc=hk&amp;kca=eyJrZXkiOiJxUUc4WnQ5SGV6V2ZxRzFQSDlva1YwTWxjb010NzJjVXdGR2RJTWpXbXo5N0ZsQ3hCVzZlckhqUXZDT0JwUmVCYkZGbU0vTDFLY1BsaTdVQ2VDZVU1Ylh6YzdSV2dQWWhKTFBlU2QyU1lvNjVHaFpReUd2eXY5L2l5RGIwdWpvRlljL09VZENBVmJHNDcxVy9OWW53a2VsN3FyeW5zeXZOMU9MZkdIZnArUVhVMUJlNm1Wbz0iLCJpdiI6ImMyM2I4ZjZmZDI2MjQ5MDNkN2FmYmU2YTE0MDRlZTdhIn0=_1789905668153</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 12:01:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-8-3503-4534-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1109/ICMLA58977.2023.00141</dc:identifier>
+                <dc:identifier>ISBN 979-8-3503-4534-6</dc:identifier>
+                <dc:title>2023 International Conference on Machine Learning and Applications (ICMLA)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>IEEE</foaf:name>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Jacksonville, FL, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Upadhyaya</foaf:surname>
+                        <foaf:givenName>Sreenivasa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buyens</foaf:surname>
+                        <foaf:givenName>Wim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vranken</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Desmet</foaf:surname>
+                        <foaf:givenName>Wim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karsmakers</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_367"/>
+        <dc:title>Assessment of Data Augmentation and Transfer Learning for Making PIG Cough Classifier Robust to Changing Farm Conditions</dc:title>
+        <dcterms:abstract>Lately, the monitoring of the respiratory health status using sound signals for pig cough classiﬁcation has caught the attention of the research community. In this paper, existing data augmentation techniques for Sound Event Classiﬁcation (SEC) and Transfer Learning (TL) schemes are evaluated in the scenario of pig cough classiﬁcation. Speciﬁcally, we talk about a) Deep Learning (DL) and TL as a popular choice for SEC and b) Enhancing model robustness using data augmentation which adds (realistic) acoustic variability to the data without requiring additional annotations. The pig cough dataset recorded in commercial farm environments is used and divided into two categories (type1 and type2) based on acoustical properties of the farms. Transfer learning with data augmentation strategies are used to explore the generalization of the pig cough classiﬁer to changing conditions. Overall, data augmentation methods improved the performance when the model was trained on type1 data and tested on type2 data. A maximum improvement in F1score of 3.69 percentage points and reduction of 1.66 percentage points in the F1-score standard deviation (F1-SD) was achieved with a OpenL3 based model using a hybrid data augmentation. OpenL3 based models emerge as a light weight alternative to ResNet based models for this task. In conclusion, the ﬁndings of this study call for domain speciﬁc methods to achieve classiﬁer adaptability to changing environmental acoustical conditions in farms.</dcterms:abstract>
+        <dc:date>2023-12-15</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10459865/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 12:25:09</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <bib:pages>952-957</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2023 International Conference on Machine Learning and Applications (ICMLA)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_367">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/367/Upadhyaya 等 - 2023 - Assessment of Data Augmentation and Transfer Learning for Making PIG Cough Classifier Robust to Chan.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://webvpn.hainanu.edu.cn/https/32393332413339303239333421416369b6cd061f5bb167165629106d881cd9a038c615/stampPDF/getPDF.jsp?tp=&amp;arnumber=10459865&amp;origin_source=search&amp;origin_method=searchbar&amp;ref=aHR0cHM6Ly9hdXRoc2VydmVyLmhhaW5hbnUuZWR1LmNuL2F1dGhzZXJ2ZXIvbG9naW4/c2VydmljZT1odHRwcyUzQSUyRiUyRndlYnZwbi5oYWluYW51LmVkdS5jbiUyRmxvZ2luJTNGY2FzX2xvZ2luJTNEdHJ1ZQ==</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 12:24:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
