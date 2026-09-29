@@ -1,0 +1,313 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/ani16142275">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-2615"/>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharifuzzaman</foaf:surname>
+                        <foaf:givenName>Md</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mun</foaf:surname>
+                        <foaf:givenName>Hong-Seok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hasan</foaf:surname>
+                        <foaf:givenName>Md Kamrul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kang</foaf:surname>
+                        <foaf:givenName>Jin-Gu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lagua</foaf:surname>
+                        <foaf:givenName>Eddiemar B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Hae-Rang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ampode</foaf:surname>
+                        <foaf:givenName>Keiven Mark B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Young-Hwa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mehtab</foaf:surname>
+                        <foaf:givenName>Ahsan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chul-Ju</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_579"/>
+        <dc:title>Exploratory Room-Level Acoustic Soundscape Monitoring of Cough-like Events Under Standard and Ventilation-Restricted Pig-Housing Conditions Using Audio Spectrogram Transformer</dc:title>
+        <dc:date>2026-07</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/ani16142275</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2275</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-2615">
+        <dc:identifier>DOI 10.3390/ani16142275</dc:identifier>
+        <prism:volume>16</prism:volume>
+        <dc:title>Animals</dc:title>
+        <dc:identifier>ISSN 2076-2615</dc:identifier>
+        <prism:number>14</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_579">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/579/Sharifuzzaman 等 - 2026 - Exploratory Room-Level Acoustic Soundscape Monitoring of Cough-like Events Under Standard and Ventil.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2076-2615/16/14/2275/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-25 05:14:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2624-7402/7/5/140">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2624-7402"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrido</foaf:surname>
+                        <foaf:givenName>Luís F. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodrigues</foaf:surname>
+                        <foaf:givenName>Gabriel S. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Costa</foaf:surname>
+                        <foaf:givenName>Leandro B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kurtz</foaf:surname>
+                        <foaf:givenName>Diego J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daros</foaf:surname>
+                        <foaf:givenName>Ruan R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_576"/>
+        <dc:title>Validation of a Swine Cough Monitoring System Under Field Conditions</dc:title>
+        <dcterms:abstract>Precision livestock farming technologies support health monitoring on farms, yet few studies have evaluated their effectiveness under ﬁeld conditions using reliable gold standards. This study evaluated a commercially available technology for detecting cough sounds in pigs on a commercial farm. Audio was recorded over six days using 16 microphones across two pig barns. A total of 1110 cough sounds were labelled by an on-site observer using a cough induction methodology, and 8938 other sounds from farm recordings and open-source datasets (ESC-50, UrbanSound8K, and AudioSet) were labelled. A hybrid deep learning model combining Convolutional Neural Networks and Recurrent Neural Networks was trained and evaluated using these labels. A total of 34 audio features were extracted from 1 s segments, including validated descriptors (e.g., MFCC), unveriﬁed external features, and proprietary features. Features were evaluated through 10-fold cross-validation based on classiﬁcation performance and runtime, resulting in eight ﬁnal features. The ﬁnal model showed high performance (recall = 98.6%, speciﬁcity = 99.7%, precision = 98.8%, accuracy = 99.6%, F1-score = 98.6%). The technology tested was shown to be efﬁcient for monitoring cough sounds in a commercial swine production facility. It is recommended to test the technology in other environments to evaluate the effectiveness in different farm settings.</dcterms:abstract>
+        <dc:date>2025-05-06</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2624-7402/7/5/140</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-25 04:59:28</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>140</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2624-7402">
+        <dc:identifier>DOI 10.3390/agriengineering7050140</dc:identifier>
+        <prism:volume>7</prism:volume>
+        <dc:title>AgriEngineering</dc:title>
+        <dc:identifier>ISSN 2624-7402</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>AgriEngineering</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_576">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/576/Garrido 等 - 2025 - Validation of a Swine Cough Monitoring System Under Field Conditions.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-8-3315-8840-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1109/CCECE68150.2026.11610350</dc:identifier>
+                <dc:identifier>ISBN 979-8-3315-8840-3</dc:identifier>
+                <dc:title>2026 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>IEEE</foaf:name>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Montreal, QC, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kate</foaf:surname>
+                        <foaf:givenName>Mayuri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neethirajan</foaf:surname>
+                        <foaf:givenName>Suresh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_580"/>
+        <dc:title>Multi-Expert Fusion with Confidence-Aware Abstention for Macro-Behavior Classification of Cow Vocalizations</dc:title>
+        <dc:date>5/2026</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/11610350/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-25 06:37:02</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:rights>https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html</dc:rights>
+        <bib:pages>443-448</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2026 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_580">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/580/Kate和Neethirajan - 2026 - Multi-Expert Fusion with Confidence-Aware Abstention for Macro-Behavior Classification of Cow Vocali.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0168169925000420">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01681699"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Haopu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bugao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Haoming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Min</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Song</foaf:surname>
+                        <foaf:givenName>Yanbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhenyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_582"/>
+        <dc:title>A lightweight decision-level fusion model for pig disease identification using multi-modal data</dc:title>
+        <dcterms:abstract>In intensive pig farming, highly contagious diseases such as African swine fever, blue ear disease, transmissible gastroenteritis, and swine dysentery pose increasing threats to the pig industry. Timely detection of sick pigs and accurate diagnosis of their diseases are crucial for saving livestock. Therefore, this study integrates pigs’ excretion behavior and fecal characteristics through a model decision layer and proposes the HCC-YOLOv8-LSTM model for pig health monitoring. First, the YOLOv8s model is improved by introducing the High Performance GPU Network (HGNet) module for feature extraction and fusion, which reduces computational costs and enhances feature extraction capabilities. The Cross-Stage Partial Convolution (CSPC) module, with Partial Convolution at its core, reduces the number of parameters and computations while effectively extracting spatial features, thereby enhancing the model’s ability to identify abnormal pigs. Cross-Scale Feature Fusion (CSFF), as the Neck layer, fuses features of adjacent scales, enhancing the model’s adaptability to health characteristics of pigs of different scales. Then, we introduce the Long Short-Term Memory (LSTM) network to extract timecontinuous excretion behavior characteristics of pigs. By considering both excretion behavior and excretion characteristics through a decision layer fusion approach, the issue of poor accuracy due to single-mode features is reduced. The model achieves an mAP of 0.951 and a recall of 0.971. This lightweight model can be deployed on mobile devices, fits the practical conditions of pig farms, and can be applied to unmanned noncontact real-time detection systems to monitor pigs’ health through their excretion behaviors and characteristics.</dcterms:abstract>
+        <dc:date>04/2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0168169925000420</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-25 11:41:25</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>109936</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01681699">
+        <dc:identifier>DOI 10.1016/j.compag.2025.109936</dc:identifier>
+        <prism:volume>231</prism:volume>
+        <dc:title>Computers and Electronics in Agriculture</dc:title>
+        <dc:identifier>ISSN 01681699</dc:identifier>
+        <dcterms:alternative>Computers and Electronics in Agriculture</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_582">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/582/Li 等 - 2025 - A lightweight decision-level fusion model for pig disease identification using multi-modal data.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271304/1-s2.0-S0168169925X00028/1-s2.0-S0168169925000420/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECMaCXVzLWVhc3QtMSJHMEUCIQCqcborORLxU1hZzhoGdo2EhllMhPCFH77sPbE7R1uKhgIgfqMQJpkvuDwxCmDWDRG37ud%2Fo1bPtvwguSUgO5lpJ7sqvAUI6%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKX3PMn5KlfidRLB8SqQBfD4GEASOeawL8tywv9tSEZEFoxJ7xLLca5NDipN%2BAHauaTfVXDBmQKLwdNoiImjdJRstUVU%2BpUHaIKGfbe0AHR%2Bxi5XxMSWx1tVhSNa8vUpLLQUg2ujOfxnKIAr7Q0qbKUZamy%2FzB8LvGqScagnBC6nKk6mN0B3EcohhjpsMiLC7n1bflQ%2FnT40qqlp0tr4sG%2BX04hgOQMf5xDZRzjSOlcb5M1UpzD1UUPyL21yUwqpFZ6zO%2B9pTnuOKgELB3bmOZcoU7wPVbdE5d5VSNF5mOXHMSaHk52kuVIB%2B9vqTC05tX71VDqa1xLFlMWu%2FlpCDImEpezPI8ZI9DtB4EcYYzQarK9Jt%2FRtgZPD60MdI4pr4db7qV3PeOUj0n5Z%2FI4JqHC5PPK7VmA97P0yL4fcrP%2FFS8fMASgAXyqphGBu9VPSxebTygugJONsKMr4eLeHwNEXZ1Tz%2B9mM%2Fn%2BtDKqny7F7hQYGm5K9n97YoPBkDk1hhq6w1j%2F69JtHDeaQqGfqCVSFIyBVJORSvjr4S%2BGvXurUu7dbVEM2Enjl6wZ69S0Ou7IVMpQckmiAU6FonwY6O2szV2tX5WksBtB4XNE0tI%2BMyFczXvK3eOTtMy2DWJASxeCz4eM4n81%2FI45N6OT%2FqsP5ZT97UYiQr%2FNbPbjDzsQrz1yI9CGv7qI%2FJBXFOyDWatFaY7i6qTlOdG5L4ki2lFmw%2FYnAVjKD3bqUgc2k2NwHiP9RGfkZeYWxD%2FQYA2H1XbnCCXBPQBy5vW7v5tBqmvISnOhT5GE1vaz8NIqZj1CEnGkxq9%2Fwi1RD6oN%2FAJ%2ByBUhqGY7BE9kilVDYYr1D01%2BIE7DwlFplnMeH82Ot7g9CMvXNYv%2BhUDpwIEfLzT0AMIaS2dUGOrEBWYJoWr9sz1EWzz8JF40eDupCTIys%2F36Oioks60WG%2FAU5srEdnTotKkXXDmuxRxo%2BZlBhMx%2FVE3Kjo%2BGnNpbWmTS2hk0GHsW0xxx5JtOJFQnLK3BmTZ86bV9dA5wxGJkvQYooh7KqJ1jNPtTcFXs8E%2Bm%2BCcR3ncb%2F9JO5JqBHeq%2FK4S7%2Bw53k6NzIuAgBJsinrEPeNWeXkV%2BiCNQ8IzRXNxaPP%2FyBIy4rBTb1KDoUGyDD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260925T114024Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYQVNNLYOW%2F20260925%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=8d2ed23e840eb1504e2825d5ae8865b713361e7880ed0998d07e8eedcc6dec43&amp;hash=4ee8589766cf54b22a5fa367fb362f1849cbedd3830d366cec827ac3d452fa09&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0168169925000420&amp;tid=spdf-0014e7a6-a319-4470-b762-abcbe04729cd&amp;sid=a1ac79a4593b284baf0ab043205d4f00355fgxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=111401515f570456045803&amp;rr=a409c0f6a8acc7b5&amp;cc=kr&amp;kca=eyJrZXkiOiJXSmlRNXNRR3Y0WFNCWTJtMURzOE9IZ1Qyc1dNVGYybGtqTCtONlVFYWVjR1JVSmxrVXNEZUdjejFaL1VmeUR1QUJyNFBJSDE4TkwwY3pxbkExcVc3RS9QRU1Yb3hHYjdDandqSUtkZEdkS2dXaFdjMCtTTFcyd3IyYWtiUzcwV3kzck9wdGJ2cDMzaCsvVDhyY2xTZ2JvWVAvT2ZGMHV4cTdjM1FEVmdYd1dnQ0ZEUWVBPT0iLCJpdiI6IjQzNjhkOWMxOGVhZTRjODhkYzk0ODI4YTg3YjExMDY1In0=_1790336460223</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-25 11:41:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

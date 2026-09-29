@@ -1,0 +1,304 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="http://dx.doi.org/10.1371/journal.pone.0297655">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Public Library of Science (PLoS)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Buyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qi</foaf:surname>
+                        <foaf:givenName>Jingwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>An</foaf:surname>
+                        <foaf:givenName>Xiaoping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Srinivasan</foaf:surname>
+                        <foaf:givenName>Kathiravan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_325"/>
+        <link:link rdf:resource="#item_329"/>
+        <dc:title>Heterogeneous fusion of biometric and deep physiological features for accurate porcine cough recognition</dc:title>
+        <dc:date>2024-02</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.doi.org/10.1371/journal.pone.0297655</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e0297655</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <dc:identifier>DOI 10.1371/journal.pone.0297655</dc:identifier>
+        <prism:volume>19</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <prism:number>2</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_325">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/325/Wang 等 - 2024 - Heterogeneous fusion of biometric and deep physiological features for accurate porcine cough recogni.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0297655&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:29:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_329">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/329/Wang 等 - 2024 - Heterogeneous fusion of biometric and deep physiological features for accurate porcine cough recogni.compare.pdf"/>
+        <dc:title>siliconflowfree-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/v16101575">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1999-4915"/>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eddicks</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feicht</foaf:surname>
+                        <foaf:givenName>Franziska</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beckjunker</foaf:surname>
+                        <foaf:givenName>Jochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Genzow</foaf:surname>
+                        <foaf:givenName>Marika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alonso</foaf:surname>
+                        <foaf:givenName>Carmen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reese</foaf:surname>
+                        <foaf:givenName>Sven</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ritzmann</foaf:surname>
+                        <foaf:givenName>Mathias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stadler</foaf:surname>
+                        <foaf:givenName>Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_324"/>
+        <link:link rdf:resource="#item_331"/>
+        <link:link rdf:resource="#item_330"/>
+        <dc:title>Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artificial Intelligence and Aggregate Samples</dc:title>
+        <dc:date>2024-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/v16101575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1575</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1999-4915">
+        <dc:identifier>DOI 10.3390/v16101575</dc:identifier>
+        <prism:volume>16</prism:volume>
+        <dc:title>Viruses</dc:title>
+        <dc:identifier>ISSN 1999-4915</dc:identifier>
+        <prism:number>10</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_324">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/324/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.pdf"/>
+        <dc:title>全文</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1999-4915/16/10/1575/pdf?version=1728203664</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:29:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_331">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/331/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.no_watermark.zh-CN.LR_dual.pdf"/>
+        <dc:title>siliconflowfree-dual</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_330">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/330/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.no_watermark.zh-CN.mono.pdf"/>
+        <dc:title>siliconflowfree-mono</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/af/vfaf060">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2160-6056"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Juncheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xin</foaf:surname>
+                        <foaf:givenName>Peiguang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tong</foaf:surname>
+                        <foaf:givenName>Qin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Ligen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Aiqiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Chaoyuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_328"/>
+        <link:link rdf:resource="#item_327"/>
+        <dc:title>Toward smart health monitoring: multimodal sensing and intelligent disease diagnosis in poultry and livestock</dc:title>
+        <dc:date>2026-04-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/af/vfaf060</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:30:52</dcterms:dateSubmitted>
+        <z:shortTitle>Toward smart health monitoring</z:shortTitle>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <bib:pages>51-62</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2160-6056">
+        <dc:identifier>DOI 10.1093/af/vfaf060</dc:identifier>
+        <prism:volume>16</prism:volume>
+        <dc:title>Animal Frontiers</dc:title>
+        <dc:identifier>ISSN 2160-6056</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Anim Fron</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_328">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/328/Ma 等 - 2026 - Toward smart health monitoring multimodal sensing and intelligent disease diagnosis in poultry and.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/af/article-pdf/16/2/51/66327112/vfaf060.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:31:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_327">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/327/vfaf060.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/af/vfaf060</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:31:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

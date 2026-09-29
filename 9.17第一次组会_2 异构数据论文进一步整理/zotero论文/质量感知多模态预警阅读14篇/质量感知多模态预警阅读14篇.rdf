@@ -1,0 +1,1129 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://dx.doi.org/10.3390/v16101575">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1999-4915"/>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>MDPI AG</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eddicks</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feicht</foaf:surname>
+                        <foaf:givenName>Franziska</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beckjunker</foaf:surname>
+                        <foaf:givenName>Jochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Genzow</foaf:surname>
+                        <foaf:givenName>Marika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alonso</foaf:surname>
+                        <foaf:givenName>Carmen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reese</foaf:surname>
+                        <foaf:givenName>Sven</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ritzmann</foaf:surname>
+                        <foaf:givenName>Mathias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stadler</foaf:surname>
+                        <foaf:givenName>Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_324"/>
+        <link:link rdf:resource="#item_331"/>
+        <link:link rdf:resource="#item_330"/>
+        <dc:title>Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artificial Intelligence and Aggregate Samples</dc:title>
+        <dc:date>2024-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.3390/v16101575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1575</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1999-4915">
+        <dc:identifier>DOI 10.3390/v16101575</dc:identifier>
+        <prism:volume>16</prism:volume>
+        <dc:title>Viruses</dc:title>
+        <dc:identifier>ISSN 1999-4915</dc:identifier>
+        <prism:number>10</prism:number>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_324">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/324/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.pdf"/>
+        <dc:title>全文</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1999-4915/16/10/1575/pdf?version=1728203664</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-18 04:29:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_331">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/331/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.no_watermark.zh-CN.LR_dual.pdf"/>
+        <dc:title>siliconflowfree-dual</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_330">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/330/Eddicks 等 - 2024 - Monitoring of Respiratory Disease Patterns in a Multimicrobially Infected Pig Population Using Artif.no_watermark.zh-CN.mono.pdf"/>
+        <dc:title>siliconflowfree-mono</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2404.18947">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Qingyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Yake</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Zongbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Huazhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Xi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deng</foaf:surname>
+                        <foaf:givenName>Cheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Qinghua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Cai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Di</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Changqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_539"/>
+        <link:link rdf:resource="#item_540"/>
+        <dc:title>Multimodal Fusion on Low-quality Data: A Comprehensive Survey</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>DOI 10.48550/arXiv.2404.18947</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2404.18947</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_539">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/539/Zha24.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_540">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/540/Zha24.no_watermark.zh-CN.crop-compare.pdf"/>
+        <dc:title>siliconflowfree-crop-compare</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.3390/vetsci12090818">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.3390/vetsci12090818</dc:identifier>
+                <prism:volume>12</prism:volume>
+                <dc:title>Veterinary Sciences</dc:title>
+                <prism:number>9</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamsakul</foaf:surname>
+                        <foaf:givenName>Panuwat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yano</foaf:surname>
+                        <foaf:givenName>Terdsak</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Junchum</foaf:surname>
+                        <foaf:givenName>Kiettipoch</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anukool</foaf:surname>
+                        <foaf:givenName>Wichittra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kittiwan</foaf:surname>
+                        <foaf:givenName>Nattinee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_610"/>
+        <dc:subject>质量感知多模态预警</dc:subject>
+        <dc:title>Machine Learning-Based Detection of Pig Coughs and Their Association with Respiratory Diseases in Fattening Pigs</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.3390/vetsci12090818</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>818</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_610">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/610/Yamsakul 等 - 2025 - Machine Learning-Based Detection of Pig Coughs and Their Association with Respiratory Diseases in Fa.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10489-025-06555-6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1007/s10489-025-06555-6</dc:identifier>
+                <prism:volume>55</prism:volume>
+                <dc:title>Applied Intelligence</dc:title>
+                <prism:number>7</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>André Moreira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobayashi</foaf:surname>
+                        <foaf:givenName>Livia Lissa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tassoni</foaf:surname>
+                        <foaf:givenName>Lucas Andrietta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garbossa</foaf:surname>
+                        <foaf:givenName>Cesar Augusto Pospissil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ventura</foaf:surname>
+                        <foaf:givenName>Ricardo Vieira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Machado de Sousa</foaf:surname>
+                        <foaf:givenName>Elaine Parros</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_598"/>
+        <dc:subject>质量感知多模态预警</dc:subject>
+        <dc:title>Deep learning solutions for audio event detection in a swine barn using environmental audio and weak labels</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10489-025-06555-6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_598">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/598/Souza 等 - 2025 - Deep learning solutions for audio event detection in a swine barn using environmental audio and weak.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.3390/s24227232">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.3390/s24227232</dc:identifier>
+                <prism:volume>24</prism:volume>
+                <dc:title>Sensors</dc:title>
+                <prism:number>22</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chae</foaf:surname>
+                        <foaf:givenName>Heechan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Junhee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Jonggwan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Sejun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Jonguk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chung</foaf:surname>
+                        <foaf:givenName>Yongwha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Daihee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_613"/>
+        <dc:subject>质量感知多模态预警</dc:subject>
+        <dc:title>Novel Method for Detecting Coughing Pigs with Audio-Visual Multimodality for Smart Agriculture Monitoring</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.3390/s24227232</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>7232</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_613">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/613/Chae 等 - 2024 - Novel Method for Detecting Coughing Pigs with Audio-Visual Multimodality for Smart Agriculture Monit.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1537511024000084">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15375110"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yin</foaf:surname>
+                        <foaf:givenName>Yanling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Xinpeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Weizheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kou</foaf:surname>
+                        <foaf:givenName>Shengli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Baisheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_596"/>
+        <dc:title>Automatic detection of continuous pig cough in a complex piggery environment</dc:title>
+        <dcterms:abstract>Pig cough sound monitoring is an effective means of early warning for respiratory diseases. Until present, most studies focused on the investigation of high precision pig cough recognition algorithms based on manually segmented individual sound datasets. However, the recognition of continuous sound was mostly ignored, which cannot apply in practical engineering. Meanwhile, less consideration has been given to complex scenarios, such as the overlap of multiple sounds, which occur frequently in large-scale piggeries. To this end, we explored an automatic detection of continuous sound algorithm and proposed a continuous pig cough recognition method which has a significant role in the diagnosis of diseases. Initially, we proposed a voice activity detection (VAD) method to automatically segment continuous sound. Subsequently, we investigated a multi-classifier fusion strategy to promote recognition accuracy. Finally, we proposed a low-complexity continuous pig cough recognition method. The experimental results show that the recall and precision of pig cough in continuous sound is 93.1% and 91.6% respectively, which is much higher than the 67.3% and 90.6% of the baseline detection method. The recognition accuracy of continuous pig cough reached 91.4%. From the perspective of practical application, our algorithm development considered the complex environment of a real pig barn.</dcterms:abstract>
+        <dc:date>02/2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1537511024000084</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:22:19</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>78-88</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15375110">
+        <dc:identifier>DOI 10.1016/j.biosystemseng.2024.01.002</dc:identifier>
+        <prism:volume>238</prism:volume>
+        <dc:title>Biosystems Engineering</dc:title>
+        <dc:identifier>ISSN 15375110</dc:identifier>
+        <dcterms:alternative>Biosystems Engineering</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_596">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/596/Wang 等 - 2024 - Automatic detection of continuous pig cough in a complex piggery environment.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/272441/1-s2.0-S1537511024X00021/1-s2.0-S1537511024000084/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLWVhc3QtMSJHMEUCIQC6sq8apqjgy%2F3nQ2Kjd7a7JoqxS1gx3y6ItvJG1hCYAAIgEUXAcHyGe17uS7fOvGTEXTvGkJKm0Ltf%2BSbFWKGGdcoqsgUIARAFGgwwNTkwMDM1NDY4NjUiDHd9%2ByXJzPRHRIY4qSqPBXCrzHSMsbF0aE8rfFlr%2FgtcD3nqHcIJVEr8hGdNCozNI0xLbZKz9%2FT11SDuLvX4BN03zpPAr0mNKX9aSkT09%2FVkdJwQddrNaL1bDvcDUORLwZVjGCfhStlH0wSbr5KQ%2B6frcy490PNVmrFd3%2FTOkgcCtP6RDzL9Bfsk8VHXsnbhXTSaThzkBR6Qded9HOJuZfq3PqBozziiS433VoDSf5Sww%2BIL8WWYPe%2FRzkzGPpeIXNvdV6E10nMsHoYm7YyQiZmKMW1hqTzbgIF7pc7TKYMMXK5IZ8we3wVA8hOAtSKM3wJDxT4brRkSLOxVHjSEk7EaRZyX%2BhtP13OfoNS5IkT4ea7f4moXnhxhqf92Qevj0NpfbQD3X84PZoO%2FgoYGa0WJfFkFNTHrBituYBMMUb%2FX8v%2Bm8mBRIbIR6QRj%2BnFXl9YkMSNuRL91UE49N0aISNuYpdV2BPldIBkne3BJe8UJ4nfpFH%2Fx7aFEI5srqjdH2xIOG5fP6b2uwHNWKRmK0G60zPkcB83CN8lhwgKzjf3ZOnsqshz5t0R3it3JGHjGuTblXzwa1bXrPql9EVPtVj%2F4INbAkix56fWwcK7GyVrGAsVarWHFKk45d9SMUyyNMLtoh%2BVFWVlebfnugvddnS%2FUxazM2rNQutF2YfmLBnPLU3RzHE5ojBb5b0vz8S%2ByBRaUTPrahXZ9YM0f2nYAkmxj1Yb5cMBT3XMfKFldVJwu7ElsnVo9I9ewKYkcz4l7GuR%2Fs6LVEtJIPLt53v4DuVzta%2Bm5cSBY%2F4cEItDasc5t3c%2FnOkuoYO%2FtM%2ByqH1tETZN2MyHPDOvQ4ZzRPPKiRfB45jFMqHSwHVGQD3Q0quxCB9XZktrESVVrwx5UjfAwlfHd1QY6sQE6V%2FieFMAMHQAAVHBayj2%2FAjk0wmJZgpeAZwGILc9%2BExO4rnMw%2BRD5eUPlYqB7pL%2FHYK2%2F%2FiJi1iOx8KG2uP1Tvvd2pBJWh5rgp6zNV3xUDb4nhNT%2BpFnhhEh1gwXkwUjlsl45OobWdmaMVfG%2Bi8onN9DRaQflIp3lMC9WGM2K5ZRPQtkUBPEdICvVVv9CBSRxpLiylu7Kcp50s%2FTHnO0iwZF6qTRI0hjcZxv7n5pN%2F%2Bc%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260926T082156Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYXAEVG7EH%2F20260926%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=78ebea013e92bdc7dc529b7f88d385c7de24b5aa522ed69f08990e582a2f436e&amp;hash=c3c75e1dcf4ef6a3f460bb97f0dfcb5393eff1c90745e7aca2d9c90251cfc3e1&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S1537511024000084&amp;tid=spdf-ab7b63ff-47c0-4695-a643-787781e9d8a9&amp;sid=a1ac79a4593b284baf0ab043205d4f00355fgxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=130201515e5e0304035d51&amp;rr=a410dba33b82b5b1&amp;cc=id</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:22:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S016758772400240X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01675877"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eyango Tabi</foaf:surname>
+                        <foaf:givenName>Théophile Ghislain Loïc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rouault</foaf:surname>
+                        <foaf:givenName>Maud</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Potdevin</foaf:surname>
+                        <foaf:givenName>Victoria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>L’hostis</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Assié</foaf:surname>
+                        <foaf:givenName>Sébastien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Picault</foaf:surname>
+                        <foaf:givenName>Sébastien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parisey</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_599"/>
+        <dc:title>Harnessing uncertainty: A deep mechanistic approach for cautious diagnostic and forecast of Bovine Respiratory Disease</dc:title>
+        <dcterms:abstract>Bovine Respiratory Disease (BRD) is a prevalent infectious disease of respiratory tract in cattle, presenting challenges in accurate diagnosis and forecasting due to the complex interactions of multiple risk factors. Common methods, including mathematical epidemiological models and data-driven approaches such as machine learning models, face limitations such as difficult parameter estimation or the need for data across all potential outcomes, which is challenging given the scarcity and noise in observing BRD processes. In response to these challenges, we introduce a novel approach known as the Bayesian Deep Mechanistic method. This method couples a data-driven model with a mathematical epidemiological model while accounting for uncertainties within the processes. By utilising 265 lung ultrasound videos as sensor data from 163 animals across 9 farms in France, we trained a Bayesian deep learning model to predict the infection status (infected or non-infected) of an entire batch of 12 animals, also providing associated confidence levels. These predictions, coupled with their confidence levels, were used to filter out highly uncertain diagnoses and diffuse uncertainties into the parameterisation of a mathematical epidemiological model to forecast the progression of infected animals. Our findings highlight that considering the confidence levels (or uncertainties) of predictions enhances both the diagnosis and forecasting of BRD. Uncertainty-aware diagnosis reduced errors to 32 %, outperforming traditional automatic diagnosis. Forecast relying on veterinarian diagnoses, considered the most confident, had a 23 % error, whilst forecast taking into account diagnosis uncertainties had a close 27.2 % error. Building upon uncertaintyawareness, our future research could explore integrating multiple types of sensor data, such as video surveillance, audio recordings, and environmental parameters, to provide a comprehensive evaluation of animal health, employing multi-modal methods for processing this diverse data.</dcterms:abstract>
+        <dc:date>12/2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S016758772400240X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:28:38</dcterms:dateSubmitted>
+        <z:shortTitle>Harnessing uncertainty</z:shortTitle>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>106354</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01675877">
+        <dc:identifier>DOI 10.1016/j.prevetmed.2024.106354</dc:identifier>
+        <prism:volume>233</prism:volume>
+        <dc:title>Preventive Veterinary Medicine</dc:title>
+        <dc:identifier>ISSN 01675877</dc:identifier>
+        <dcterms:alternative>Preventive Veterinary Medicine</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_599">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/599/Eyango Tabi 等 - 2024 - Harnessing uncertainty A deep mechanistic approach for cautious diagnostic and forecast of Bovine R.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271186/1-s2.0-S0167587724X00100/1-s2.0-S016758772400240X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLWVhc3QtMSJHMEUCIQC6sq8apqjgy%2F3nQ2Kjd7a7JoqxS1gx3y6ItvJG1hCYAAIgEUXAcHyGe17uS7fOvGTEXTvGkJKm0Ltf%2BSbFWKGGdcoqsgUIARAFGgwwNTkwMDM1NDY4NjUiDHd9%2ByXJzPRHRIY4qSqPBXCrzHSMsbF0aE8rfFlr%2FgtcD3nqHcIJVEr8hGdNCozNI0xLbZKz9%2FT11SDuLvX4BN03zpPAr0mNKX9aSkT09%2FVkdJwQddrNaL1bDvcDUORLwZVjGCfhStlH0wSbr5KQ%2B6frcy490PNVmrFd3%2FTOkgcCtP6RDzL9Bfsk8VHXsnbhXTSaThzkBR6Qded9HOJuZfq3PqBozziiS433VoDSf5Sww%2BIL8WWYPe%2FRzkzGPpeIXNvdV6E10nMsHoYm7YyQiZmKMW1hqTzbgIF7pc7TKYMMXK5IZ8we3wVA8hOAtSKM3wJDxT4brRkSLOxVHjSEk7EaRZyX%2BhtP13OfoNS5IkT4ea7f4moXnhxhqf92Qevj0NpfbQD3X84PZoO%2FgoYGa0WJfFkFNTHrBituYBMMUb%2FX8v%2Bm8mBRIbIR6QRj%2BnFXl9YkMSNuRL91UE49N0aISNuYpdV2BPldIBkne3BJe8UJ4nfpFH%2Fx7aFEI5srqjdH2xIOG5fP6b2uwHNWKRmK0G60zPkcB83CN8lhwgKzjf3ZOnsqshz5t0R3it3JGHjGuTblXzwa1bXrPql9EVPtVj%2F4INbAkix56fWwcK7GyVrGAsVarWHFKk45d9SMUyyNMLtoh%2BVFWVlebfnugvddnS%2FUxazM2rNQutF2YfmLBnPLU3RzHE5ojBb5b0vz8S%2ByBRaUTPrahXZ9YM0f2nYAkmxj1Yb5cMBT3XMfKFldVJwu7ElsnVo9I9ewKYkcz4l7GuR%2Fs6LVEtJIPLt53v4DuVzta%2Bm5cSBY%2F4cEItDasc5t3c%2FnOkuoYO%2FtM%2ByqH1tETZN2MyHPDOvQ4ZzRPPKiRfB45jFMqHSwHVGQD3Q0quxCB9XZktrESVVrwx5UjfAwlfHd1QY6sQE6V%2FieFMAMHQAAVHBayj2%2FAjk0wmJZgpeAZwGILc9%2BExO4rnMw%2BRD5eUPlYqB7pL%2FHYK2%2F%2FiJi1iOx8KG2uP1Tvvd2pBJWh5rgp6zNV3xUDb4nhNT%2BpFnhhEh1gwXkwUjlsl45OobWdmaMVfG%2Bi8onN9DRaQflIp3lMC9WGM2K5ZRPQtkUBPEdICvVVv9CBSRxpLiylu7Kcp50s%2FTHnO0iwZF6qTRI0hjcZxv7n5pN%2F%2Bc%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260926T082811Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYXAEVG7EH%2F20260926%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=a3001df3bdbc6dd57d78a59f85853aa2a2229076611472522d4e021c468737f2&amp;hash=e618c8ccbbac5af1173bf16e72d780a0dd24cc71c55eae43a65a6100cdd285df&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S016758772400240X&amp;tid=spdf-ce3deafc-cc7b-43a3-b7a5-a43a6d1d1038&amp;sid=a1ac79a4593b284baf0ab043205d4f00355fgxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=130201515e5e0252015700&amp;rr=a410e4c9bf816cee&amp;cc=id</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:28:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2607.02938">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Soyeon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenName>Charmgil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_603"/>
+        <link:link rdf:resource="#item_602"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Missingness as Signal: Channel-Independent Spectrogram Learning for Clinical Time Series Prediction</dc:title>
+        <dcterms:abstract>Clinical time series prediction in intensive care units remains challenging due to heterogeneous physiological variables and informative missingness. The presence or absence of a measurement can reflect clinical decisions and patient severity, and thus missingness can serve as a predictive signal rather than a simple data artifact. This work presents CISM, a Channel-Independent Spectrogram framework with a Missingness stream for clinical multivariate time series prediction. CISM converts each clinical variable into a variable-wise time-frequency spectrogram, preserves variable identity through variable-aligned encoding, and aligns an explicit missingness stream with the spectrogram representation. Experiments on an in-hospital mortality task derived from MIMIC-IV show that CISM achieves the highest mean AUROC (0.7225), AUPRC (0.3308), and F1 (0.3808) among the compared time series, missingness-aware, vision, and time-frequency baselines. Ablation studies further show that observation patterns provide a meaningful informative signal. Pixel-level mask injection improves performance over plain spectrogram inputs and recovers much of this predictive value. The aligned missingness stream contributes a further, complementary gain in both AUROC and AUPRC. These results highlight the importance of modeling observation patterns as structured signals in clinical time series prediction.</dcterms:abstract>
+        <dc:date>2026-07-03</dc:date>
+        <dc:identifier>DOI 10.48550/arXiv.2607.02938</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2607.02938</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:29:15</dcterms:dateSubmitted>
+        <z:shortTitle>Missingness as Signal</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:description>arXiv:2607.02938 [cs.LG]</dc:description>
+        <prism:number>arXiv:2607.02938</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_603">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/603/Park和Hong - 2026 - Missingness as Signal Channel-Independent Spectrogram Learning for Clinical Time Series Prediction.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2607.02938</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:29:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_602">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/602/2607.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2607.02938</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:29:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2512.07770">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Dongjian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Junxi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xia</foaf:surname>
+                        <foaf:givenName>Shu-Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zou</foaf:surname>
+                        <foaf:givenName>Changliang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_607"/>
+        <link:link rdf:resource="#item_606"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Distribution-informed Online Conformal Prediction</dc:title>
+        <dcterms:abstract>Conformal prediction provides a pivotal and flexible technique for uncertainty quantification by constructing prediction sets with a predefined coverage rate. Many online conformal prediction methods have been developed to address data distribution shifts in fully adversarial environments, resulting in overly conservative prediction sets. We propose Conformal Optimistic Prediction (COP), an online conformal prediction algorithm incorporating underlying data pattern into the update rule. Through estimated cumulative distribution function of non-conformity scores, COP produces tighter prediction sets when predictable pattern exists, while retaining valid coverage guarantees even when estimates are inaccurate. We establish a joint bound on coverage and regret, which further confirms the validity of our approach. We also prove that COP achieves distribution-free, finite-sample coverage under arbitrary learning rates and can converge when scores are $i.i.d.$. The experimental results also show that COP can achieve valid coverage and construct shorter prediction intervals than other baselines.</dcterms:abstract>
+        <dc:date>2026-02-24</dc:date>
+        <dc:identifier>DOI 10.48550/arXiv.2512.07770</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2512.07770</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:35:58</dcterms:dateSubmitted>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:description>arXiv:2512.07770 [stat.ML]</dc:description>
+        <prism:number>arXiv:2512.07770</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_607">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/607/Hu 等 - 2026 - Distribution-informed Online Conformal Prediction.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2512.07770</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:36:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_606">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/606/2512.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2512.07770</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:35:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-8-4007-0686-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>MM '24</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>DOI 10.1145/3664647.3681404</dc:identifier>
+                <dc:identifier>ISBN 979-8-4007-0686-8</dc:identifier>
+                <dc:title>Proceedings of the 32nd ACM International Conference on Multimedia</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Association for Computing Machinery</foaf:name>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Ying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Lihong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Cai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Song</foaf:surname>
+                        <foaf:givenName>Xiangyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guan</foaf:surname>
+                        <foaf:givenName>Ziyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_609"/>
+        <dc:title>Dynamic Evidence Decoupling for Trusted Multi-view Learning</dc:title>
+        <dcterms:abstract>Multi-view learning methods often focus on improving decision accuracy, while neglecting the decision uncertainty, limiting their suitability for safety-critical applications. To mitigate this, researchers propose trusted multi-view learning methods that estimate classification probabilities and uncertainty by learning the class distributions for each instance. However, these methods assume that the data from each view can effectively differentiate all categories, ignoring the semantic vagueness phenomenon in real-world multi-view data. Our findings demonstrate that this phenomenon significantly suppresses the learning of view-specific evidence in existing methods. We propose a Consistent and Complementary-aware trusted Multi-view Learning (CCML) method to solve this problem. We first construct view opinions using evidential deep neural networks, which consist of belief mass vectors and uncertainty estimates. Next, we dynamically decouple the consistent and complementary evidence. The consistent evidence is derived from the shared portions across all views, while the complementary evidence is obtained by averaging the differing portions across all views. We ensure that the opinion constructed from the consistent evidence strictly aligns with the ground-truth category. For the opinion constructed from the complementary evidence, we allow it for potential vagueness in the evidence. We compare CCML with state-of-the-art baselines on one synthetic and six real-world datasets. The results validate the effectiveness of the dynamic evidence decoupling strategy and show that CCML significantly outperforms baselines on accuracy and reliability. The code is released at https://github.com/Lihong-Liu/CCML.</dcterms:abstract>
+        <dc:date>十月 28, 2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3664647.3681404</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26</dcterms:dateSubmitted>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <bib:pages>7269–7277</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_609">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/609/Liu 等 - 2024 - Dynamic Evidence Decoupling for Trusted Multi-view Learning.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/pdf/10.1145/3664647.3681404?download=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:36:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0167587720308928">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1016/j.prevetmed.2020.105208</dc:identifier>
+                <prism:volume>186</prism:volume>
+                <dc:title>Preventive Veterinary Medicine</dc:title>
+                <dc:identifier>ISSN 01675877</dc:identifier>
+                <dcterms:alternative>Preventive Veterinary Medicine</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pessoa</foaf:surname>
+                        <foaf:givenName>Joana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodrigues Da Costa</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García Manzanilla</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Norton</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McAloon</foaf:surname>
+                        <foaf:givenName>Conor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyle</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_611"/>
+        <dc:title>Managing respiratory disease in finisher pigs: Combining quantitative assessments of clinical signs and the prevalence of lung lesions at slaughter</dc:title>
+        <dcterms:abstract>This study aimed to assess the relationship between quantitative assessments of clinical signs of respiratory disease (recorded manually and automatically) and the prevalence of lung lesions at slaughter to validate the use of both in the management of respiratory disease on farm. This was an observational study where pigs (n = 1573) were monitored from 25 ± 5.3 kg (week 12) to slaughter at 114 ± 15.4 kg (week 24). Pigs were housed in eight rooms divided into six pens on a wean-to-finish farm. A manual pen-based coughing (CF) and sneezing (SF) frequency was recorded weekly, for ten consecutive weeks, and a SOMO box (SoundTalks®) was installed in each room, issuing a daily respiratory distress index (RDI) for 13 weeks. Lungs were individually scored for pneumonia, scarring and dorsocaudal (DC) and cranial (CP) pleurisy lesions at slaughter. Relationship between prevalence of lung lesions and weekly RDI and CF and SF was assessed using Spearman’s rank correlations and multivariable linear and logit-normal models.</dcterms:abstract>
+        <dc:date>01/2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0167587720308928</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:37:53</dcterms:dateSubmitted>
+        <z:shortTitle>Managing respiratory disease in finisher pigs</z:shortTitle>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>105208</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_611">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/611/Pessoa 等 - 2021 - Managing respiratory disease in finisher pigs Combining quantitative assessments of clinical signs.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271186/1-s2.0-S0167587720X00134/1-s2.0-S0167587720308928/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLWVhc3QtMSJGMEQCIFwjc%2FC9rvqdowZM1qt8J%2Fky%2FKfR4TzrtyG%2FBu2jYF%2FEAiBk4%2Bibkbir43MbtlvOCmmrXj9xcaalsKdnlCzsBk35%2FCqyBQgBEAUaDDA1OTAwMzU0Njg2NSIMYU4JL4qxUE7ppulkKo8FULf%2FiNrMrHSlBJLEArSfqWRN2qbFAU4MCrPi3St1LvXG0y%2FOoWWEY%2BPSCaSSmPh9RRJApotm7cniwvlBpVu%2FMo09w%2FADTY4ldLGRiTIWHx0Z7Y%2BCmViye61xMjuJ70L7sroVICwDPJgShzSW12TLdClQ9FNK7NC8kZyzMTVMPv7d2ZVPxpRMN9%2FlFrycRAjfTLHbp0VHI8OgOa%2Fa9mxHu29qR6vaMqIZYGj%2FIAW72r8dw26sUCHhKJFGHqOUYfugr7l4fivVHlvq0WpkZ04T6yotRpQTQZSq1lj5zW7Xdn0CmvJA9MvEGyqXY8nRDlZJwlxy%2Fyx1811W5%2FrkEFiMsi%2BMRMRO38FAQN8fI1fB8nRhWqga7N%2BTB5mZ1eX%2BmdEu7YHm4OgW8qh3CFd%2BAxxGvo1NZpzJXR9%2BwPhe53%2FRTnOQzRIKxzzIj83KbciEHf4uzFGp%2BZt22%2Fko45vvvKMST%2BWW30ifWtbt%2FzUW6rNB5gXOWxN7Fs%2FH6zuw9t%2BRYB5ah2wjOmNbxter0gEtDvZFwhiGDzAaUTlbUd%2FPC4PCVmEf9uzUbpY%2F%2Fg26emBAS%2B7OX83jEAqOuFhZsw8CXMWDQGUc720cVyd7LjrhCK9zrIaZjd6h8%2BgIdgQR%2BP3j7UL0cROLDpp6lekjBbAoRoaDK230UXsLkCOvFfucmrB5ShJlhcB%2BHvwoRT5yomtK208RMGePrjZd1f8zsCOAWW2T0MtI1bYlEL7Dm7ftxrLQW%2BAU2xA1IxlyRMTCMZBxYrzDqLtcpshe%2FcSQYPojVvRO7rTH0UAuSoBbDROaOk3lTK%2F4unk61eJDzK0IvdOA%2BR9C%2FBl6FzvSQ2H%2BplfAbb96gItxr7KcqpemQiuE1UF89TDO793VBjqyAYGmiXt%2FQJ1XtWud9rP%2Fv2Fx8L8c6vttX%2BV%2BG41HV%2BOcAaD2pGYcsS%2Bxi8QFPxs1yQ6GgwZhs0Z9uQsCIv1KpgRD2ssVrMlzcdWhrR7DVYB4lrOfYCdgMr7OlMb0alDWv527AtyFB541XIcK%2BaVVd3S4etWdAYdzIsco2Yrf2f1Bz0I2zQhd9LwVo8SzvzHsrYSs2MgPMsqbgXZMErtn2LqZJ2xFMAGtcf2EYWmNbvRQOIc%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260926T083740Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYYT6IPTGQ%2F20260926%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=8787503fc527ff02f2fd5bbaf60d8f02f79053e36b3ba7c5f2c94b9ebcc7e82a&amp;hash=1d023d22cd1ae10c78536a6018062afdfada695c8e7b4edd5c2f8a475faf0723&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0167587720308928&amp;tid=spdf-bdb72bbb-a0cb-41ce-ac37-26728a1c01b5&amp;sid=a1ac79a4593b284baf0ab043205d4f00355fgxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=130201515e5e0154030d52&amp;rr=a410f2ac089d6476&amp;cc=id</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:37:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0168169925009482">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01681699"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Juncheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zishuo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Chaoyuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_614"/>
+        <dc:title>On field recognition of pig cough based on multimodal audio representation and fusion with contrastive learning</dc:title>
+        <dcterms:abstract>Cough is an early clinical sign of pig respiratory diseases, of which accurate and timely recognition is critical to early warning of pig respiratory diseases. Recent pig cough recognition methods suffered from limited label training samples and failed to obtain powerful audio representations. In this study, a novel multimodal pig audio representation and fusion (MSS) framework was proposed to learn meaningful feature representations. Based on the MSS framework, this study proposed a method for recognizing pig cough in practical production conditions. The results showed that the MSS framework demonstrated excellent capability of learning pig audio representations, based on which the pig cough recognition method achieved accurate results by fusing the mel-frequency cepstral coefficient (MFCC) and log-mel spectrogram, with an accuracy of 91.37 % using a simple linear classifier. After fine-tuning the supervision dataset, the performance of the pig cough recognition method was further improved to 94.32 % and outperformed the state-of-the-art supervised pig cough recognition methods. The proposed MSS framework effectively addressed the issue that the labeled training samples were limited in practical production conditions, enabling the proposed pig cough recognition method to maintain accuracy even with a 50 % reduction in training samples and to yield decent recognition results with approximately 3 % of the total cough samples. This study indicates that the proposed pig cough recognition method based on the MSS framework can effectively complement the supervised methods and make a promising tool for early warning of pig respiratory diseases.</dcterms:abstract>
+        <dc:date>11/2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0168169925009482</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:39:15</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>110842</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01681699">
+        <dc:identifier>DOI 10.1016/j.compag.2025.110842</dc:identifier>
+        <prism:volume>238</prism:volume>
+        <dc:title>Computers and Electronics in Agriculture</dc:title>
+        <dc:identifier>ISSN 01681699</dc:identifier>
+        <dcterms:alternative>Computers and Electronics in Agriculture</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_614">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/614/Ma 等 - 2025 - On field recognition of pig cough based on multimodal audio representation and fusion with contrasti.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/271304/1-s2.0-S0168169925X00119/1-s2.0-S0168169925009482/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDgaCXVzLWVhc3QtMSJHMEUCIQC6sq8apqjgy%2F3nQ2Kjd7a7JoqxS1gx3y6ItvJG1hCYAAIgEUXAcHyGe17uS7fOvGTEXTvGkJKm0Ltf%2BSbFWKGGdcoqsgUIARAFGgwwNTkwMDM1NDY4NjUiDHd9%2ByXJzPRHRIY4qSqPBXCrzHSMsbF0aE8rfFlr%2FgtcD3nqHcIJVEr8hGdNCozNI0xLbZKz9%2FT11SDuLvX4BN03zpPAr0mNKX9aSkT09%2FVkdJwQddrNaL1bDvcDUORLwZVjGCfhStlH0wSbr5KQ%2B6frcy490PNVmrFd3%2FTOkgcCtP6RDzL9Bfsk8VHXsnbhXTSaThzkBR6Qded9HOJuZfq3PqBozziiS433VoDSf5Sww%2BIL8WWYPe%2FRzkzGPpeIXNvdV6E10nMsHoYm7YyQiZmKMW1hqTzbgIF7pc7TKYMMXK5IZ8we3wVA8hOAtSKM3wJDxT4brRkSLOxVHjSEk7EaRZyX%2BhtP13OfoNS5IkT4ea7f4moXnhxhqf92Qevj0NpfbQD3X84PZoO%2FgoYGa0WJfFkFNTHrBituYBMMUb%2FX8v%2Bm8mBRIbIR6QRj%2BnFXl9YkMSNuRL91UE49N0aISNuYpdV2BPldIBkne3BJe8UJ4nfpFH%2Fx7aFEI5srqjdH2xIOG5fP6b2uwHNWKRmK0G60zPkcB83CN8lhwgKzjf3ZOnsqshz5t0R3it3JGHjGuTblXzwa1bXrPql9EVPtVj%2F4INbAkix56fWwcK7GyVrGAsVarWHFKk45d9SMUyyNMLtoh%2BVFWVlebfnugvddnS%2FUxazM2rNQutF2YfmLBnPLU3RzHE5ojBb5b0vz8S%2ByBRaUTPrahXZ9YM0f2nYAkmxj1Yb5cMBT3XMfKFldVJwu7ElsnVo9I9ewKYkcz4l7GuR%2Fs6LVEtJIPLt53v4DuVzta%2Bm5cSBY%2F4cEItDasc5t3c%2FnOkuoYO%2FtM%2ByqH1tETZN2MyHPDOvQ4ZzRPPKiRfB45jFMqHSwHVGQD3Q0quxCB9XZktrESVVrwx5UjfAwlfHd1QY6sQE6V%2FieFMAMHQAAVHBayj2%2FAjk0wmJZgpeAZwGILc9%2BExO4rnMw%2BRD5eUPlYqB7pL%2FHYK2%2F%2FiJi1iOx8KG2uP1Tvvd2pBJWh5rgp6zNV3xUDb4nhNT%2BpFnhhEh1gwXkwUjlsl45OobWdmaMVfG%2Bi8onN9DRaQflIp3lMC9WGM2K5ZRPQtkUBPEdICvVVv9CBSRxpLiylu7Kcp50s%2FTHnO0iwZF6qTRI0hjcZxv7n5pN%2F%2Bc%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260926T083905Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYXAEVG7EH%2F20260926%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=0b4254a32f0ffaeb25a1050b410c7427d79df429a6e01bea96628257eb75a87b&amp;hash=135fd3114d2ccbeabd3181796bf8b2bf6c6f495afcf0d3f6f862f0c32b02f59f&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S0168169925009482&amp;tid=spdf-7bca731f-f51f-424f-9ac8-4ba2f3553031&amp;sid=a1ac79a4593b284baf0ab043205d4f00355fgxrqa&amp;type=client&amp;tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&amp;ua=130201515e5e0152000a52&amp;rr=a410f4bd0d4b6476&amp;cc=id</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:39:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2102.02051">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Zongbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Changqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Huazhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Joey Tianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_619"/>
+        <link:link rdf:resource="#item_618"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Trusted Multi-View Classification</dc:title>
+        <dcterms:abstract>Multi-view classification (MVC) generally focuses on improving classification accuracy by using information from different views, typically integrating them into a unified comprehensive representation for downstream tasks. However, it is also crucial to dynamically assess the quality of a view for different samples in order to provide reliable uncertainty estimations, which indicate whether predictions can be trusted. To this end, we propose a novel multi-view classification method, termed trusted multi-view classification, which provides a new paradigm for multi-view learning by dynamically integrating different views at an evidence level. The algorithm jointly utilizes multiple views to promote both classification reliability and robustness by integrating evidence from each view. To achieve this, the Dirichlet distribution is used to model the distribution of the class probabilities, parameterized with evidence from different views and integrated with the Dempster-Shafer theory. The unified learning framework induces accurate uncertainty and accordingly endows the model with both reliability and robustness for out-of-distribution samples. Extensive experimental results validate the effectiveness of the proposed model in accuracy, reliability and robustness.</dcterms:abstract>
+        <dc:date>2021-02-03</dc:date>
+        <dc:identifier>DOI 10.48550/arXiv.2102.02051</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2102.02051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:39:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:description>arXiv:2102.02051 [cs.LG]</dc:description>
+        <prism:number>arXiv:2102.02051</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_619">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/619/Han 等 - 2021 - Trusted Multi-View Classification.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2102.02051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:39:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_618">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/618/2102.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2102.02051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 08:39:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://malque.pub/ojs/index.php/jabb/article/view/1805">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2318-1265,%202318-1265"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lagua</foaf:surname>
+                        <foaf:givenName>Eddiemar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mun</foaf:surname>
+                        <foaf:givenName>Hong-Seok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ampode</foaf:surname>
+                        <foaf:givenName>Keiven Mark B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chem</foaf:surname>
+                        <foaf:givenName>Veasna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Hae-Rang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Young-Hwa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chul-Ju</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_623"/>
+        <dc:title>Monitoring using artificial intelligence reveals critical links between housing conditions and respiratory health in pigs</dc:title>
+        <dcterms:abstract>Respiratory disease is the most significant issue in the pig industry and leads to high mortality and reduced growth rates. Housing conditions are crucial for maintaining the health and welfare of animals to optimize growth rates. This study aimed to evaluate the respiratory health status of pigs raised in different housing conditions using artificial intelligence (AI) technology and to determine the relationships between respiratory health and environmental factors. Eighty growing pigs (Largewhite × Landrace) × Duroc) were randomly distributed into two housing conditions: the control group, which had normal housing conditions, and the treatment group, which had poor housing conditions. A two-sample t test was performed to compare the groups, and a cross-correlation analysis was conducted to determine associations between respiratory health and days of exposure to environmental factors. The results show significant (p &lt; 0.001) lower incidence of respiratory health status along with a significant (p &lt; 0.001) greater frequency of coughing in pigs raised under poor housing conditions. Respiratory health is negatively associated with high exposure to temperature, relative humidity, and CO2 at lags 0 (R = -0.873, -0.887, and -0.869, respectively), -1 (R = -0.708, -0.742, and -0.705, respectively), and -2 (R = -0.545, -0.590, and -0.599, respectively). Furthermore, respiratory health was negatively associated with high exposure to NH3 (R = -0.420) at lag 0. In conclusion, AI technology is an effective tool for monitoring respiratory health. However, further evaluation and calibration of the alarm system threshold are recommended. These findings suggest that maintaining proper control of environmental factors can help prevent respiratory diseases in pigs.</dcterms:abstract>
+        <dc:date>2024-02-05</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://malque.pub/ojs/index.php/jabb/article/view/1805</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-26 11:17:06</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>2024008</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2318-1265,%202318-1265">
+        <dc:identifier>DOI 10.31893/jabb.2024008</dc:identifier>
+        <prism:volume>12</prism:volume>
+        <dc:title>Journal of Animal Behaviour and Biometeorology</dc:title>
+        <dc:identifier>ISSN 2318-1265, 2318-1265</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>J. Anim. Behav. Biometeorol.</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_623">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/623/Lagua 等 - 2024 - Monitoring using artificial intelligence reveals critical links between housing conditions and respi.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
